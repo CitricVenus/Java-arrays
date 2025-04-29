@@ -14,8 +14,8 @@ An array is a collection of variables of the same type, stored in a contiguous m
 
 Key Points:
 
-    Fixed Size: The size of an array is defined when it is created and cannot be changed.
-    Indexed Access: Array elements are accessed using their index, which starts from 0.
+Fixed Size: The size of an array is defined when it is created and cannot be changed.
+Indexed Access: Array elements are accessed using their index, which starts from 0.
 
 Example:
 
@@ -79,7 +79,7 @@ Using a `for` Loop:
 
 for (int i = 0; i < arrayName.length; i++) {
 
-    System.out.println(arrayName[i]);
+System.out.println(arrayName[i]);
 
 }
 
